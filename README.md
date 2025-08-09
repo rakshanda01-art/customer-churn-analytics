@@ -30,9 +30,4 @@ pip install -r requirements.txt
 ```
 3. Open `notebooks/customer_churn_notebook.ipynb` to view the analysis.
 
-## 📊 Sample Visualization
-![Churn Rate](images/churn_rate_chart.png)
 
-## 📬 Contact
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourusername)
-- **GitHub:** [Your Username](https://github.com/yourusername)
