@@ -22,7 +22,7 @@ This project analyzes customer churn patterns for a telecom company to identify 
 ## 🚀 How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/customer-churn-analytics.git
+git clone https://github.com/rakshanda01-art/customer-churn-analytics.git
 ```
 2. Install dependencies:
 ```bash
