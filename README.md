@@ -28,6 +28,6 @@ git clone https://github.com/yourusername/customer-churn-analytics.git
 ```bash
 pip install -r requirements.txt
 ```
-3. Open `notebooks/customer_churn_notebook.ipynb` to view the analysis.
+3. Open `customer_churn_notebook.ipynb` to view the analysis.
 
 
